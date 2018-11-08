@@ -19,15 +19,15 @@ PSD센서는 아두이노와 연결이 되고 그 아두이노에서 센서 값�
 그래서 20cm안에 들어오면 시리얼 모니터에 1을 출력하였다.
 
 2) serial을 통해서 아두이노와 시리얼 통신을 하였다.
-http://www.makewith.co/media1/upload/imgs/2016/978/2207/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%B5%9C%EC%A2%851.PNG
-http://www.makewith.co/media1/upload/imgs/2016/978/2207/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%B5%9C%EC%A2%852.PNG
+<img src = http://www.makewith.co/media1/upload/imgs/2016/978/2207/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%B5%9C%EC%A2%851.PNG>
+<img src = http://www.makewith.co/media1/upload/imgs/2016/978/2207/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%B5%9C%EC%A2%852.PNG>
 
 시리얼 통신을 사용해야하기 때문에 serial모듈을 import해줘야 한다.
 그리고 아두이노에서 보레이트를 9600BPS로 해주었기 때문에 파이썬에도 BPS를 9600으로 설정해주었다.
 아두이노 상에서 20cm안에 들어오면 1을 출력하라고 했기 때문에 “1\r\n”을 찾으면 경고 ui를 통해 메시지를 뜨게 하였다.
 
 3) Tkinter을 통해서 UI를 제작했다. PyQT보다 기능이 많이 없지만, 내가 구현하려고 하는 기능으로는 충분히 해볼만하다고 생각했다.
-http://www.makewith.co/media1/upload/imgs/2016/978/2207/KakaoTalk_20161210_231750699.png
+<img src = http://www.makewith.co/media1/upload/imgs/2016/978/2207/KakaoTalk_20161210_231750699.png>
 처음화면 UI
 
 ui의 기능을 사용하고 싶었기 때문에 Tkinter모듈을 import하였다.
@@ -36,20 +36,20 @@ button, label, scroll기능을 사용했다. 버튼은 다양한 기능을 위�
 마지막으로 label을 통해서 어떤 기능이 어떤 역할을 하는지 설명하는 것을 써주었다.
 
 4) tkMessageBox을 통해서 오류 메시지 박스와 정보 박스를 보여주었다.
-http://www.makewith.co/media1/upload/imgs/2016/978/2207/KakaoTalk_20161210_231932086.png
+<img src = http://www.makewith.co/media1/upload/imgs/2016/978/2207/KakaoTalk_20161210_231932086.png>
 Save PDF버튼을 누르면 나오는 알림메세지
 
-http://www.makewith.co/media1/upload/imgs/2016/978/2207/KakaoTalk_20161210_231955561.png
+<img src = http://www.makewith.co/media1/upload/imgs/2016/978/2207/KakaoTalk_20161210_231955561.png>
 Information버튼을 누르면 나오는 알림메세지
 
-http://www.makewith.co/media1/upload/imgs/2016/978/2207/KakaoTalk_20161210_231846299_1.png
+<img src = http://www.makewith.co/media1/upload/imgs/2016/978/2207/KakaoTalk_20161210_231846299_1.png>
 Activate버튼을 누르고 센서가 감지되면 나오는 알림메세지
 
 버튼을 누르면 내가 원하는 기능이 완료되었다는(오류나 정보)신호를 주고 싶었다.
 그래서 messagebox모듈을 사용했다. 내가 사용한 기능은 showinfo로 경고 메시지를 주는 box를 생성해준다.
 
 5) pdf파일로 정리해주었다.
-http://www.makewith.co/media1/upload/imgs/2016/978/2207/PDF_IMAGE.PNG
+<img src = http://www.makewith.co/media1/upload/imgs/2016/978/2207/PDF_IMAGE.PNG>
 사용자가 오늘 얼마나 거북목 형태로 목을 앞으로 내밀었는지 즉, 경고 메시지를 얼마나 많이 받았는지 정리해주는 파일을 하나 만들고 싶었다.
 그래서 데이터를 pdf파일로 저장하여 깔끔하게 사용자에게 보여주는 기능을 사용하고 싶었다.
 그 날의 날짜와 시간이 저장돼서 언제 거북목처럼 목을 내밀었는지 알 수 있고, 몇 번 거북목을 했는지 알 수 있으며, 심각한 상태도 알 수 있게 pdf파일을 만들었다.
@@ -63,6 +63,9 @@ http://www.makewith.co/media1/upload/imgs/2016/978/2207/PDF_IMAGE.PNG
 
 <iframe width="640" height="360" src="https://youtu.be/MEnNALq1A4g/" frameborder="0" allowfullscreen></iframe>
 <iframe width="640" height="360" src="https://youtu.be/BHXISS462Xk/" frameborder="0" allowfullscreen></iframe>
+
+<iframe class="youtube" src="https://youtu.be/MEnNALq1A4g"  
+ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
 
 ## 참고문헌
