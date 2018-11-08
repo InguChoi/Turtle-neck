@@ -62,8 +62,8 @@ Activate버튼을 누르고 센서가 감지되면 나오는 알림메세지
 그리고 추후에 센서를 살만큼 여유로워 진다면 다양한 기능을 추가해서 더 나은 프로그램을 개발하고 싶다.
 
 
-[![PSD 센서 테스트]](https://youtu.be/MEnNALq1A4g)
-[![PDF 파일 테스트]](https://youtu.be/BHXISS462Xk)
+[[PSD 센서 테스트 유튜브 링크]](https://youtu.be/MEnNALq1A4g)
+[[PDF 파일 테스트 유튜브 링크]](https://youtu.be/BHXISS462Xk)
 
 
 
