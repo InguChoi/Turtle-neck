@@ -64,8 +64,8 @@ Activate버튼을 누르고 센서가 감지되면 나오는 알림메세지
 <iframe width="640" height="360" src="https://youtu.be/MEnNALq1A4g/" frameborder="0" allowfullscreen></iframe>
 <iframe width="640" height="360" src="https://youtu.be/BHXISS462Xk/" frameborder="0" allowfullscreen></iframe>
 
-<iframe class="youtube" src="https://youtu.be/MEnNALq1A4g"  
- frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+<iframe width="640" height="360" src="https://youtu.be/MEnNALq1A4g"  
+ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ## 참고문헌
