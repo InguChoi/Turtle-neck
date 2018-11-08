@@ -61,13 +61,9 @@ Activate버튼을 누르고 센서가 감지되면 나오는 알림메세지
 금전적인 문제로 다른 센서를 추가하지 못해서 풍성한 기능을 구현하지는 못해서 아쉽지만, 내가 개발한 거북목 방지 프로그램으로 거북목을 예방하는 프로그램의 시초라 생각이 든다.
 그리고 추후에 센서를 살만큼 여유로워 진다면 다양한 기능을 추가해서 더 나은 프로그램을 개발하고 싶다.
 
-<iframe width="640" height="360" src="https://youtu.be/MEnNALq1A4g/" frameborder="0" allowfullscreen></iframe>
-<iframe width="640" height="360" src="https://youtu.be/BHXISS462Xk/" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="640" height="360" src="https://youtu.be/MEnNALq1A4g"  
- frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
- 
- [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s) Video Labe
+[![Video Label]](https://youtu.be/MEnNALq1A4g)
+[![Video Label]](https://youtu.be/BHXISS462Xk)
 
 
 
