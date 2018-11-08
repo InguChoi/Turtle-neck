@@ -13,7 +13,7 @@ PSD센서는 아두이노와 연결이 되고 그 아두이노에서 센서 값�
 
 ## 구현 내용
 1) 아두이노 UNO를 이용해서 PSD센서의 거리 값을 실시간으로 받아왔다.
-http://www.makewith.co/media1/upload/imgs/2016/978/2207/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8%20%EC%B5%9C%EC%A2%85.PNG
+<img src = "http://www.makewith.co/media1/upload/imgs/2016/978/2207/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8%20%EC%B5%9C%EC%A2%85.PNG">
 
 시리얼 보레이트는 9600BPS로 설정해주고 PSD센서의 ADC값을 CM로 변환해주기 위해서 map함수와 dis공식을 사용하였다.
 그래서 20cm안에 들어오면 시리얼 모니터에 1을 출력하였다.
@@ -61,8 +61,8 @@ http://www.makewith.co/media1/upload/imgs/2016/978/2207/PDF_IMAGE.PNG
 금전적인 문제로 다른 센서를 추가하지 못해서 풍성한 기능을 구현하지는 못해서 아쉽지만, 내가 개발한 거북목 방지 프로그램으로 거북목을 예방하는 프로그램의 시초라 생각이 든다.
 그리고 추후에 센서를 살만큼 여유로워 진다면 다양한 기능을 추가해서 더 나은 프로그램을 개발하고 싶다.
 
-<iframe width="640" height="360" src="https://youtu.be/MEnNALq1A4g" frameborder="0" gesture="media" allowfullscreen=""></iframe>
-<iframe width="640" height="360" src="https://youtu.be/BHXISS462Xk" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+<iframe width="640" height="360" src="https://youtu.be/MEnNALq1A4g/" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://youtu.be/BHXISS462Xk/" frameborder="0" allowfullscreen></iframe>
 
 
 ## 참고문헌
